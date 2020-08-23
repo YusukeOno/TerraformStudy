@@ -6,6 +6,9 @@ Studying is fun for me. Terraform.
 ### リソース作成に必要なバイナリファイルのダウンロード
 ```$ terraform init```
 
+### モジュールの事前取得
+```$ terraform get```
+
 ### 実行計画
 ```$ terraform plan```
 
